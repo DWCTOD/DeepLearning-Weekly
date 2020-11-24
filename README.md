@@ -17,6 +17,10 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 ### 模型部署
 
+:car: ​ [YOLO之外的另一选择，手机端97FPS的Anchor-Free目标检测模型NanoDet现已开源~](https://zhuanlan.zhihu.com/p/306530300)
+
+> code : https://github.com/RangiLyu/nanodet
+
 
 
 说明：
