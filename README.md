@@ -1,6 +1,22 @@
 # DeepLearning-Weekly
 Collecting the most interesting deep learning（CV） applications, papers, and code for everyone！Waiting for your star!
 
+### 人脸领域：
+
+**:person_with_pouting_face:  人脸识别**
+
+:heavy_check_mark:  [Towards Universal Representation Learning for Deep Face Recognition（CVPR2020解读）](https://blog.csdn.net/XBB102910/article/details/109428657)
+
+> 提出了一种通用学习框架，可处理给定训练数据中看不到的较大变化，而无需利用目标领域知识。
+
+:heavy_check_mark: [Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces（ECCV2020解读）](https://blog.csdn.net/XBB102910/article/details/109400771)
+
+> 以前的方法容易受到大量噪声label训练数据的影响，这需要人工清洗这些数据。本文放宽了ArcFace类内的约束，提高了对标签噪声的鲁棒性。
+
+:heavy_check_mark: [The Elements of End-to-end Deep Face Recognition: A Survey of Recent Advances](https://blog.csdn.net/XBB102910/article/details/109279782)
+
+> 关于人脸识别的最新进展综述，从三个方面详细介绍了整个识别系统各个模块：人脸检测、人脸图像预处理、人脸表示。阐述每一块技术的最新进展，包括最新算法设计、评价标准、数据集、性能比较、存在的挑战和前景广阔的研究进展。
+
 
 
 ### 目标检测：
@@ -46,6 +62,14 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 > https://cloud.tencent.com/developer/article/1116623
 >
 > [PyCharm图解教程](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650769640&idx=1&sn=78082aaa6288496763050ca447edd25f&chksm=871a4c96b06dc58011dcb6b49318ff5b53f8b3ddcbc7b02b04f8552686b7ac98ae0c59e49303&scene=21#wechat_redirect)
+
+### 论文资源
+
+:blue_heart:  https://www.arxivdaily.com/
+
+> 作者：https://www.zhihu.com/people/arxivdaily （每日推送论文）
+
+
 
 说明：
 
