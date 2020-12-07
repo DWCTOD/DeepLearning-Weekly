@@ -69,6 +69,30 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 > 作者：https://www.zhihu.com/people/arxivdaily （每日推送论文）
 
+### 在线测试demo & 趣味应用
+
+:hand: 计算机视觉算法的在线Demo http://mc.nankai.edu.cn/ （南开大学媒体计算实验室）
+
+> 详细介绍：https://zhuanlan.zhihu.com/p/183154662
+
+:raised_hand_with_fingers_splayed: [人脸变形](https://medium.com/@azmariewang/face-morphing-a-step-by-step-tutorial-with-code-75a663cdc666)
+
+<img src="https://github.com/Azmarie/Face-Morphing/raw/master/results/final-club-final.gif" width="300">
+
+> github：https://github.com/Azmarie/Face-Morphing
+>
+> 三角剖分实现瘦脸/胖脸
+
+:haircut_man: [Hairstyle Transfer](https://medium.com/swlh/hairstyle-transfer-semantic-editing-gan-latent-code-b3a6ccf91e82) 
+
+> github: https://github.com/Azmarie/Hairstyle-Transfer
+
+<img src="https://miro.medium.com/max/600/1*mVWxFMlgQEUX9ybyFvyGUA.gif" width=200>
+
+
+
+
+
 
 
 说明：
