@@ -25,9 +25,27 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 :heavy_check_mark: [大白话 Generalized Focal Loss](https://zhuanlan.zhihu.com/p/147691786)
 
-
-
 :white_check_mark: [入门mmdetection](https://zhuanlan.zhihu.com/p/82503146)
+
+### 模型训练：
+
+:helicopter: [PyTorch分布式训练简明教程](https://zhuanlan.zhihu.com/p/113694038)
+
+
+
+### 开源项目：
+
+- **[Detectron](https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/Detectron)**：FAIR出品，基于caffe2；
+
+- **[maskrcnn-benchmark](https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/maskrcnn-benchmark)**：FAIR出品，基于PyTorch，可以看成Detectron的PyTorch升级版；
+
+- **[MMDetection](https://link.zhihu.com/?target=https%3A//github.com/open-mmlab/mmdetection/)**：商汤MMLab出品，基于PyTorch，Model zoo相当完备；
+
+- **[SimpleDet](https://link.zhihu.com/?target=https%3A//github.com/TuSimple/simpledet)**：图森出品，基于MxNet；
+
+- **[Tensorflow Object Detection](https://link.zhihu.com/?target=https%3A//github.com/tensorflow/models/tree/master/research/object_detection)**：Google出品，基于TensorFlow 1.x；
+
+  > you
 
 
 
