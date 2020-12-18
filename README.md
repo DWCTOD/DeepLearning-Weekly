@@ -25,6 +25,8 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 :heavy_check_mark: [大白话 Generalized Focal Loss](https://zhuanlan.zhihu.com/p/147691786)
 
+:white_check_mark: [丢弃Transformer，FCN也可以实现E2E检测](https://zhuanlan.zhihu.com/p/332281368)
+
 :white_check_mark: [入门mmdetection](https://zhuanlan.zhihu.com/p/82503146)
 
 ### 模型训练：
@@ -35,7 +37,9 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 ### 开源项目：
 
-- **[Detectron](https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/Detectron)**：FAIR出品，基于caffe2；
+:convenience_store: [CVPODS：面向多种计算机视觉任务的多功能代码库：分类，分割，检测，自监督学习，关键点和3D 等](https://github.com/Megvii-BaseDetection)
+
+- **[Detectron2](https://github.com/facebookresearch/detectron2)**：FAIR出品，基于caffe2；
 
 - **[maskrcnn-benchmark](https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/maskrcnn-benchmark)**：FAIR出品，基于PyTorch，可以看成Detectron的PyTorch升级版；
 
@@ -45,9 +49,7 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 - **[Tensorflow Object Detection](https://link.zhihu.com/?target=https%3A//github.com/tensorflow/models/tree/master/research/object_detection)**：Google出品，基于TensorFlow 1.x；
 
-  > you
-
-
+  > 由 知乎：[小小将](https://www.zhihu.com/people/xiaohuzc)整理
 
 ### 模型部署
 
@@ -81,6 +83,8 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 >
 > [PyCharm图解教程](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650769640&idx=1&sn=78082aaa6288496763050ca447edd25f&chksm=871a4c96b06dc58011dcb6b49318ff5b53f8b3ddcbc7b02b04f8552686b7ac98ae0c59e49303&scene=21#wechat_redirect)
 
+:monkey: [PyCharm 常用设置（主题、样式、字体、字号）](https://blog.csdn.net/weixin_34613450/article/details/91372791)
+
 ### 论文资源
 
 :blue_heart:  https://www.arxivdaily.com/
@@ -109,7 +113,9 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 
 
+### 基础积累
 
+:joy:  [玩转pytorch中的torchvision.transforms](http://noahsnail.com/2020/06/12/2020-06-12-%E7%8E%A9%E8%BD%ACpytorch%E4%B8%AD%E7%9A%84torchvision.transforms/)
 
 
 
