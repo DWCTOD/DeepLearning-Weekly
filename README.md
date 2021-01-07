@@ -91,7 +91,13 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 
 > 作者：https://www.zhihu.com/people/arxivdaily （每日推送论文）
 
+:blue_heart:  [Awesome Transformer for Vision Resources List](https://github.com/lijiaman/awesome-transformer-for-vision)
+
 ### 在线测试demo & 趣味应用
+
+:man_playing_handball:[基于opencv的老照片修复](https://towardsdatascience.com/edit-your-old-photos-with-machine-learning-computational-photography-7ef27f40cfdf)
+
+<img src="https://miro.medium.com/max/1558/1*Wns-qbfbsP64-yIl6xbGew.png" width="300">
 
 :hand: 计算机视觉算法的在线Demo http://mc.nankai.edu.cn/ （南开大学媒体计算实验室）
 
@@ -120,6 +126,10 @@ Collecting the most interesting deep learning（CV） applications, papers, and 
 :laughing: [PyTorch 源码解读](https://zhuanlan.zhihu.com/p/321449610)
 
 
+
+### 其他
+
+:angry: [互联网企业坑爹行为鉴赏](https://github.com/ShameCom/ShameCom)
 
 说明：
 
